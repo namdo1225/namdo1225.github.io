@@ -33,3 +33,4 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+- elements.md
