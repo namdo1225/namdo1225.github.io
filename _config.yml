@@ -1,17 +1,14 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Nam Do
+email: namdo1204@gmail.com
+description: An upcoming Computer Science graduate with more than 4 years of experience in an IT setting.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+author: Nam Do
+city: Tucson
+state: AZ
 country: United States of America
-phone: (716) 555-5555
+phone: (520) 265-6566
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,14 +19,8 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  GitHub: https://github.com/namdo1225
+  LinkedIn: https://www.linkedin.com/in/nam-do-630bb2173/
 
 # build settings
 markdown: kramdown
