@@ -1,8 +1,8 @@
 ---
 title: Project
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'You can view all my current and past projects on this page. Click on the title of each project for more information.'
+image: images/20230524_CodeCover.png
 nav-menu: true
 ---
 
