@@ -12,7 +12,7 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="20230526_demounityproject.html" class="image">
 			<img src="{% link images/projects_media/20230526_unitygamedemo/00.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -22,7 +22,7 @@ nav-menu: true
 				</header>
 				<p>For a four-person group project in GAME 351: Game Programming, my group created a 5-minutes platforming and horror game in Unity. I was mainly responsible for designing the UI, but at the end, I dabbled in many aspects of the project including helping with scripting in C#.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="20230526_demounityproject.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
