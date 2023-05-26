@@ -10,6 +10,8 @@ Hi, my name is Nam Do. I am a upcoming B.S. Computer Science graduate at the Uni
 
 ## My Skill
 
+As an upcoming CS graduate, I am experienced with many programming languages including C, C++, C#, Java, JavaScript, and Python. This includes web development languages such as HTML and CSS as well. I have been involved in many projects, including using Unity to create a playable demo of a game to creating a music player that could look up demo music on Spotify using the Spotify API.
+
 In addition, I also have familarity with many types of programming paradigms and approaches such as the Design Patterns of Object-Oriented Programming and Agile Development.
 
 ## My Experience
