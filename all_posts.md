@@ -4,7 +4,7 @@ title: All Posts
 landing-title: 'All posts'
 nav-menu: true
 description: Read all of my updates!
-image: null
+image: assets/images/pic09.jpg
 author: null
 show_tile: true
 ---
