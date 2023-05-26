@@ -12,7 +12,7 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
-		<a href="20230526_demounityproject.html" class="image">
+		<a href="projects_description/20230526_demounityproject.html" class="image">
 			<img src="{% link images/projects_media/20230526_unitygamedemo/00.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
