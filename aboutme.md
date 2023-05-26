@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-description: Lorem ipsum dolor est
+description: More about me!
 image: images/20230524_Portrait_IMG_0316.JPG
 nav-menu: true
 ---
