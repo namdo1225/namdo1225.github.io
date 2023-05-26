@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Small Unity Game Demo
-description: For a four-person group project in GAME 351: Game Programming, my group created a 5-minutes platforming and horror game in Unity. I was mainly responsible for designing the UI, but at the end, I dabbled in many aspects of the project including helping with scripting in C#.
+description: null
 image: null
 nav-menu: false
 ---
