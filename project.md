@@ -28,7 +28,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="projects_description/20230526_demospotify.html" class="image">
 			<img src="{% link images/projects_media/20230526_demospotify/00.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
