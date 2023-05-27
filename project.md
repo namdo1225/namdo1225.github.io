@@ -38,7 +38,7 @@ nav-menu: true
 				</header>
 				<p>For my CSc 335: Object-Oriented Programming (Java), we used the MVC model as well as many Object-Oriented design patterns to create a music player that can search for songs on Spotify (or at least songs that Spotify allow us to play) using the Spotify API. I was primarily responsible for keeping track of tasks using Trello and coding classes so that the music player could communicate with the Spotify API.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="projects_description/20230526_demospotify.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
