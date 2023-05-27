@@ -28,6 +28,8 @@ The music player could:
   <li>Could play/stop music. Fast forward or slow down the song.</li>
 </ul>
 
+Note: The app is currently not working because my Spotify account has been deleted. Because you need an account to interact with the API, it is not safe for me to keep my account active for this app.
+
 ## My Contribution
 
 To get the whole music player working in the first place, you need Java to be able to communicate with the Spotify API. I was the person responsible for doing the whole that as well as creating Java classes that could easily retrieve songs and get search results for my team members.
