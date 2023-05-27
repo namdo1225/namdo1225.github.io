@@ -22,4 +22,6 @@ For the final class project in my introduction to game design, my team and I are
 
 You can watch this video (as narrated by me) for more information:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YAU-B1SPKaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YAU-B1SPKaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;   clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
