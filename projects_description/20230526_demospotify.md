@@ -12,7 +12,7 @@ show_tile: false
   <li>Tools/Languages: Java, JavaFX, Spotify API (account required), Eclipse IDE (developed on this IDE, so you might have to use Eclipse to get it to work)</li>
   <li>Environment: Final Class Project, Group of 4</li>
   <li>Timeline: 3 weeks</li>
-  <li>GitHub: https://github.com/namdo1225/20230526_DemoSpotifyPlayer/tree/main</li>
+  <li>GitHub: <a href="https://github.com/namdo1225/20230526_DemoSpotifyPlayer/tree/main">Repository</a></li>
 </ul>
 
 ## Description
