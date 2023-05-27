@@ -19,7 +19,7 @@ show_tile: false
 
 For the final class project, we are tasked with putting the principles of object-oriented programming together to create a complex enough program. We chose to create a music player that could play certain songs from Spotify using the Spotify API. Spotify restricts which songs could be retrieved and played by the API, and thus, we were limited to certain 30-seconds demo of certain songs.
 
-<img src="{% link images/projects_media/20230526_unitygamedemo/00.png %}" alt="" data-position="center center" />
+<img src="{% link images/projects_media/20230526_demospotify/00.png %}" alt="" data-position="center center" />
 
 The music player could:
 <ul>
