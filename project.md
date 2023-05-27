@@ -44,7 +44,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="projects_description/20230526_sfml19.html" class="image">
 			<img src="{% link images/projects_media/20230526_sfml19/00.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -54,13 +54,13 @@ nav-menu: true
 				</header>
 				<p>This is a personal project in which I use a custom graphics library called SFML (https://www.sfml-dev.org/) to make a simple rouge-like dungeon game. You could say it is pretty much completed with some enemies, items, and level generation programmed out. It just needs some debugging with the UI, but it is completed otherwise. Maybe I will come back to it in the future.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="projects_description/20230526_sfml19.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="projects_description/20230526_minegl.html" class="image">
 			<img src="{% link images/projects_media/20230526_minegl/00.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -70,7 +70,7 @@ nav-menu: true
 				</header>
 				<p>In this personal project, I use GFML (https://www.glfw.org/) and OpenGL (https://learnopengl.com/) in an attempt to make a small version of Minecraft.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="projects_description/20230526_minegl.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
