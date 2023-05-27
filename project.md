@@ -68,7 +68,7 @@ nav-menu: true
 				<header class="major">
 					<h3>[IN-PROGRESS] MineGL</h3>
 				</header>
-				<p>In this personal project, I use GFML (https://www.glfw.org/) and OpenGL (https://learnopengl.com/) in an attempt to make a small version of Minecraft.</p>
+				<p>In this personal project, I use GLFW (https://www.glfw.org/) and OpenGL (https://learnopengl.com/) in an attempt to make a small version of Minecraft.</p>
 				<ul class="actions">
 					<li><a href="projects_description/20230526_minegl.html" class="button">Learn more</a></li>
 				</ul>
