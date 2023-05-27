@@ -25,3 +25,13 @@ You can watch this video (as narrated by me) for more information:
 <div class="video-container">
   <iframe width="800" height="600" src="https://www.youtube.com/embed/YAU-B1SPKaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;   clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+## My Work
+
+As you can see from the video, I set up the main menu, buttons, and UI. With the help of Youtube videos, I was able to program the player's movement and camera rotation.
+
+Besides UI, I mainly augument aspects of the project that my team members did as well as combining everything together:
+<ol>
+  <li>One member programmed the obstacles, but for some reason, the speed and movement range of the obstacle was linked. I was able to separate both features into separate variables so the barrier's speed and distance could be adjusted independently.</li>
+  <li>I updated another's member movement script so that the player's movement, dash, etc. would flow along with the third-person camera.</li>
+</ol>
