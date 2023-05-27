@@ -9,14 +9,17 @@ show_tile: false
 
 ## Project Specification
 <ul>
-  <li>Tools/Languages: Java, JavaFX, Spotify API (account required), Eclipse IDE</li>
+  <li>Tools/Languages: Java, JavaFX, Spotify API (account required), Eclipse IDE (developed on this IDE, so you might have to use Eclipse to get it to work)</li>
   <li>Environment: Final Class Project, Group of 4</li>
   <li>Timeline: 3 weeks</li>
+  <li>GitHub: https://github.com/namdo1225/20230526_DemoSpotifyPlayer/tree/main</li>
 </ul>
 
 ## Description
 
 For the final class project, we are tasked with putting the principles of object-oriented programming together to create a complex enough program. We chose to create a music player that could play certain songs from Spotify using the Spotify API. Spotify restricts which songs could be retrieved and played by the API, and thus, we were limited to certain 30-seconds demo of certain songs.
+
+<img src="{% link images/projects_media/20230526_unitygamedemo/00.png %}" alt="" data-position="center center" />
 
 The music player could:
 <ul>
