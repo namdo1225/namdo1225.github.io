@@ -86,7 +86,7 @@ nav-menu: true
 				</header>
 				<p>I use Jekyll (<a href="https://jekyllrb.com/">Source</a>) to create this personal website!</p>
 				<ul class="actions">
-					<li><a href="projects_description/20230602_jekyllwebsite.html" class="button">Learn more</a></li>
+					<li><a href="projects_description/20230604_jekyllwebsite.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
