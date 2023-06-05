@@ -75,6 +75,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+		<section>
+		<a href="projects_description/20230604_jekyllwebsite.html" class="image">
+			<img src="{% link images/projects_media/20230526_minegl/00.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>[COMPLETED] This Website</h3>
+				</header>
+				<p>I use Jekyll (<a href="https://jekyllrb.com/">Source</a>) to create this personal website!</p>
+				<ul class="actions">
+					<li><a href="projects_description/20230602_jekyllwebsite.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
 
 </div>
