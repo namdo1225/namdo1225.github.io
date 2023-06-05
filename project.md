@@ -77,7 +77,7 @@ nav-menu: true
 	</section>
 		<section>
 		<a href="projects_description/20230604_jekyllwebsite.html" class="image">
-			<img src="{% link images/projects_media/20230526_minegl/00.png %}" alt="" data-position="top center" />
+			<img src="{% link images/projects_media/20230604_jekyllwebsite/00.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
