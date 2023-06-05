@@ -50,7 +50,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>[DEBUG] SFML19 Rouge-like Dungeon</h3>
+					<h3>[V.2 COMPLETED] SFML19 Rouge-like Dungeon</h3>
 				</header>
 				<p>This is a personal project in which I use a custom graphics library called SFML (<a href="https://www.sfml-dev.org/">Source</a>) to make a simple rouge-like dungeon game. You could say it is pretty much completed with some enemies, items, and level generation programmed out. It just needs some debugging with the UI, but it is completed otherwise. Maybe I will come back to it in the future.</p>
 				<ul class="actions">
