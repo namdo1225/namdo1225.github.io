@@ -52,7 +52,7 @@ nav-menu: true
 				<header class="major">
 					<h3>[DEBUG] SFML19 Rouge-like Dungeon</h3>
 				</header>
-				<p>This is a personal project in which I use a custom graphics library called SFML (https://www.sfml-dev.org/) to make a simple rouge-like dungeon game. You could say it is pretty much completed with some enemies, items, and level generation programmed out. It just needs some debugging with the UI, but it is completed otherwise. Maybe I will come back to it in the future.</p>
+				<p>This is a personal project in which I use a custom graphics library called SFML (<a href="https://www.sfml-dev.org/">Source</a>) to make a simple rouge-like dungeon game. You could say it is pretty much completed with some enemies, items, and level generation programmed out. It just needs some debugging with the UI, but it is completed otherwise. Maybe I will come back to it in the future.</p>
 				<ul class="actions">
 					<li><a href="projects_description/20230526_sfml19.html" class="button">Learn more</a></li>
 				</ul>
@@ -68,7 +68,7 @@ nav-menu: true
 				<header class="major">
 					<h3>[IN-PROGRESS] MineGL</h3>
 				</header>
-				<p>In this personal project, I use GLFW (https://www.glfw.org/) and OpenGL (https://learnopengl.com/) in an attempt to make a small version of Minecraft.</p>
+				<p>In this personal project, I use GLFW (<a href="https://www.glfw.org/">Source</a>) and OpenGL (<a href="https://learnopengl.com/">Source</a>) in an attempt to make a small version of Minecraft.</p>
 				<ul class="actions">
 					<li><a href="projects_description/20230526_minegl.html" class="button">Learn more</a></li>
 				</ul>
