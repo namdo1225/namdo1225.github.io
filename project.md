@@ -84,7 +84,7 @@ nav-menu: true
 				<header class="major">
 					<h3>[COMPLETED] This Website</h3>
 				</header>
-				<p>I uses Jekyll (<a href="https://jekyllrb.com/">Source</a>) to create this personal website!</p>
+				<p>I used Jekyll (<a href="https://jekyllrb.com/">Source</a>) to create this personal website!</p>
 				<ul class="actions">
 					<li><a href="projects_description/20230604_jekyllwebsite.html" class="button">Learn more</a></li>
 				</ul>
