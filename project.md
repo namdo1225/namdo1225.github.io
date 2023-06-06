@@ -50,9 +50,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>[V.2 COMPLETED] SFML19 Rouge-like Dungeon</h3>
+					<h3>[V.2 COMPLETED] SFML19 Roguelike Dungeon</h3>
 				</header>
-				<p>This is a personal project in which I use a custom graphics library called SFML (<a href="https://www.sfml-dev.org/">Source</a>) to make a simple, rouge-like dungeon game. It is completed with some enemies, items, and level generation programmed out. There are spots for more features, so I might come back to it.</p>
+				<p>This is a personal project in which I use a custom graphics library called SFML (<a href="https://www.sfml-dev.org/">Source</a>) to make a simple, roguelike dungeon game. It is completed with some enemies, items, and level generation programmed out. There are spots for more features, so I might come back to it.</p>
 				<ul class="actions">
 					<li><a href="projects_description/20230526_sfml19.html" class="button">Learn more</a></li>
 				</ul>
