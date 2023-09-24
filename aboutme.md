@@ -6,7 +6,7 @@ image: images/20230524_Portrait_IMG_0316.JPG
 nav-menu: true
 ---
 
-Hi, my name is Nam Do. I am an upcoming B.S. Computer Science graduate at the University of Arizona, and am currently searching for an internship related to software engineering. I am currently an information technology student worker at the University of Arizona James E. Rogers College of Law and have been in this position for more than 4 years. I have also worked as a JD-Next student worker, primarily as the first contact for technical support as well as using Visual Basic for Applications to create and format Excel files.
+Hi, my name is Nam Do. I am an upcoming B.S. Computer Science graduate at the University of Arizona, and am currently searching for an internship related to software engineering. I am currently an information technology student worker at the University of Arizona James E. Rogers College of Law and have been in this position for more than 4 years. I am excited to say that I am also a Web Development Intern at the Thaddeus Resource Center, doing web design using Webflow and app development using React Native.
 
 ## My Skill
 
@@ -15,6 +15,8 @@ As an upcoming CS graduate, I am experienced with many programming languages, in
 In addition, I also have familiarity with many types of programming paradigms and approaches, such as the Design Patterns of Object-Oriented Programming and Agile development.
 
 ## My Experience
+
+For my web development job at the Thaddeus Resource Center, I have been doing web design primarily using Webflow, which is a website designer that allows you to integrate your skills with. I am also assigned to do app development, in which I am developing the organization's primary app. In it, I am assigned to work on the resource sections, where I compile many resources together for future users of the app.
 
 Through my IT job, I have maintained an inventory of more than 300 university devices (desktops, laptops, etc.). I am primarily tasked with setting up these devices (installing OSes and so forth) so that they meet the university's and college's standards. Last but not least, like many others in IT, I have resolved many tickets from users on ServiceNow, by email, or through walk-in support.
 
