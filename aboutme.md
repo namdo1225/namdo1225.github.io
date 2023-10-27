@@ -4,7 +4,7 @@ title: About Me
 description: Learn more about Nam Do.
 image:
   path: images/20230524_Portrait_IMG_0316.JPG
-  hide: true
+  hide: false
 nav-menu: true
 ---
 
