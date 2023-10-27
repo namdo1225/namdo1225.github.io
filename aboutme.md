@@ -6,7 +6,7 @@ image: images/20230524_Portrait_IMG_0316.JPG
 nav-menu: true
 ---
 
-Hi, my name is Nam Do. I am an upcoming B.S. Computer Science graduate at the University of Arizona, and am currently searching for an internship related to software engineering. I am currently an information technology student worker at the University of Arizona James E. Rogers College of Law and have been in this position for more than 4 years. I am excited to say that I am also a Web Development Intern at the Thaddeus Resource Center, doing web design using Webflow and app development using React Native.
+Hi, my name is Nam Do. I am an upcoming B.S. Computer Science graduate at the University of Arizona, and am currently searching for an internship related to software engineering. I am currently an information technology student worker at the University of Arizona James E. Rogers College of Law and have been in this position for more than 4 years. I am excited to say that I am also a Software Development Intern at the Thaddeus Resource Center, doing app development using React Native and web design using Webflow.
 
 ## My Skill
 
@@ -16,11 +16,11 @@ In addition, I also have familiarity with many types of programming paradigms an
 
 ## My Experience
 
-For my web development job at the Thaddeus Resource Center, I have been doing web design primarily using Webflow, which is a website designer that allows you to integrate your skills with. I am also assigned to do app development, in which I am developing the organization's primary app. In it, I am assigned to work on the resource sections, where I compile many resources together for future users of the app.
+For my software development job at the Thaddeus Resource Center, I am also assigned to do app development, in which I am developing the organization's primary app in JavaScript and React Native. I have created reusable components for the app's resource section that improve the reusability of the application overall while minimizing the amount of code. Currently, I am developing the journal section of the app, in which users can type in journal entries and record their daily mood. I am also assigned to continually improve Thaddeus' main website using Webflow, which is a website designer that allows you to easily create beautiful websites.
 
 Through my IT job, I have maintained an inventory of more than 300 university devices (desktops, laptops, etc.). I am primarily tasked with setting up these devices (installing OSes and so forth) so that they meet the university's and college's standards. Last but not least, like many others in IT, I have resolved many tickets from users on ServiceNow, by email, or through walk-in support.
 
-I have also worked as a student worker for the JD-Next program (https://jd-next.org/), a "fully-online course (that) introduces students to the kinds of doctrinal concepts and legal skills that students will encounter at law school". I mainly provide technical support for the student and the organizational team as needed, but I have also dabbled in Visual Basic for Applications in Excel and mail merge to create various PDF reports and .csv files.
+I have also worked as a student worker for the JD-Next program (https://jd-next.org/), a "fully-online course (that) introduces students to the kinds of doctrinal concepts and legal skills that students will encounter at law school". I mainly provide technical support for the student and the organizational team as needed, but I have also dabbled in Visual Basic for Applications in Excel and mail merge to create various PDF reports and CSV files.
 
 As a last note, back in high school, my school had a work study program that I participated in. I got the opportunity to work at Sun Tran and O'Rielly Chevrolet, mainly learning more about professional ethics and the office setting. This work study program is where I first started working for my IT job before being hired as their student worker.
 
