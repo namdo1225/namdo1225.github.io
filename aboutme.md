@@ -16,7 +16,7 @@ In addition, I also have familiarity with many types of programming paradigms an
 
 ## My Experience
 
-For my software development job at the Thaddeus Resource Center, I am also assigned to do app development, in which I am developing the organization's primary app in JavaScript and React Native. I have created reusable components for the app's resource section that improve the reusability of the application overall while minimizing the amount of code. Currently, I am developing the journal section of the app, in which users can type in journal entries and record their daily mood. I am also assigned to continually improve Thaddeus' main website using Webflow, which is a website designer that allows you to easily create beautiful websites.
+For my software development job at the Thaddeus Resource Center, I am developing the organization's primary app in JavaScript and React Native. I have created reusable components for the app's resource section that improve the reusability of the application overall while minimizing the amount of code. Currently, I am developing the journal section of the app, in which users can type in journal entries and record their daily mood. I am also assigned to continually improve Thaddeus' main website using Webflow, which is a website designer that allows you to easily create beautiful websites.
 
 Through my IT job, I have maintained an inventory of more than 300 university devices (desktops, laptops, etc.). I am primarily tasked with setting up these devices (installing OSes and so forth) so that they meet the university's and college's standards. Last but not least, like many others in IT, I have resolved many tickets from users on ServiceNow, by email, or through walk-in support.
 
