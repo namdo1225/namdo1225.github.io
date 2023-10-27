@@ -2,7 +2,8 @@
 layout: post
 title: About Me
 description: Learn more about Nam Do.
-image: images/20230524_Portrait_IMG_0316.JPG
+image:
+path: images/20230524_Portrait_IMG_0316.JPG
 nav-menu: true
 ---
 
