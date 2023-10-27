@@ -2,10 +2,9 @@
 layout: default
 title: About Me
 description: Learn more about Nam Do.
-image:
-  path: /images/20230524_Portrait_IMG_0316.JPG
-  width: 150
-  height: 250
+image: /images/20230524_Portrait_IMG_0316.JPG
+width: 150
+height: 250
 nav-menu: true
 ---
 
