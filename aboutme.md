@@ -14,6 +14,9 @@ style: |
   div {
     margin: 20px;
   },
+  h2 {
+    margin: 20px;
+  },
   p {
     margin: 20px;
   }
