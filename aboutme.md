@@ -11,6 +11,9 @@ style: |
     margin-right: auto;
     margin-top: 20px;
   },
+  div {
+    margin: 20px;
+  },
   p {
     margin: 20px;
   }
