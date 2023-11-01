@@ -11,15 +11,10 @@ style: |
     margin-right: auto;
     margin-top: 20px;
   },
-  div {
-    margin: 20px;
+  div, h2, p {
+    margin-top: 20px;
+    margin-bottom: 20px;
   },
-  h2 {
-    margin: 20px;
-  },
-  p {
-    margin: 20px;
-  }
 ---
 
 <style type="text/css">
