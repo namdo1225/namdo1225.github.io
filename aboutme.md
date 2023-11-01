@@ -10,11 +10,11 @@ style: |
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
-  },
+  }
   div, h2, p {
     margin-left: 20px;
     margin-right: 20px;
-  },
+  }
 ---
 
 <style type="text/css">
