@@ -5,11 +5,13 @@ description: Learn more about Nam Do.
 image: images/20230524_Portrait_IMG_0316.JPG
 nav-menu: true
 style: |
-  h2 {
-    color: red;
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   },
-  h1 {
-    color: red;
+  p {
+    margin: 20px;
   }
 ---
 
