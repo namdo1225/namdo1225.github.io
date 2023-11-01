@@ -4,7 +4,18 @@ title: About Me
 description: Learn more about Nam Do.
 image: images/20230524_Portrait_IMG_0316.JPG
 nav-menu: true
+style: |
+  h2 {
+    color: red;
+  },
+  h1 {
+    color: red;
+  }
 ---
+
+<style type="text/css">
+{{ page.style }}
+</style>
 
 ![Nam Do's Portrait](/images/20230524_Portrait_IMG_0316.JPG){:height="25%" width="25%"}
 
