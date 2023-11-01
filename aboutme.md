@@ -15,7 +15,7 @@ style: |
     margin-left: 20px;
     margin-right: 20px;
   }
-  h1 {
+  h1, h2 {
     text-align: center;
   }
 ---
