@@ -12,8 +12,8 @@ style: |
     margin-top: 20px;
   },
   div, h2, p {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
   },
 ---
 
