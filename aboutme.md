@@ -30,6 +30,8 @@ style: |
 
 ![Nam Do's Portrait](/images/20230524_Portrait_IMG_0316.JPG){:height="25%" width="25%"}
 
+## Overview
+
 Hi, I am Nam Do. I am an upcoming B.S. Computer Science graduate at the University of Arizona, and am currently searching for an internship related to software engineering. I work as a information technology student worker at the University of Arizona James E. Rogers College of Law for more than 4 years. I am excited to say that I am also a Software Development Intern at the Thaddeus Resource Center, doing app development using React Native and web design using Webflow.
 
 ## My Skill
