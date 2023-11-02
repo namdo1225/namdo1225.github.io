@@ -25,6 +25,7 @@ style: |
 {{ page.style }}
 </style>
 
+
 # Nam Do
 
 ![Nam Do's Portrait](/images/20230524_Portrait_IMG_0316.JPG){:height="25%" width="25%"}
