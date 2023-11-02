@@ -16,6 +16,7 @@ style: |
     margin-right: 20px;
   }
   h1, h2 {
+    margin-top: 20px;
     text-align: center;
   }
 ---
