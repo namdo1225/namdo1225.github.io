@@ -11,7 +11,7 @@ style: |
     margin-right: auto;
     margin-top: 20px;
   }
-  div, h2, p {
+  div, h1, h2, p, {
     margin-left: 20px;
     margin-right: 20px;
   }
