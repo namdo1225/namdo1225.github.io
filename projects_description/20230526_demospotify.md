@@ -44,34 +44,34 @@ For 2023, to authorize with the Spotify API safely and continue searching for so
 
 ## Instruction to use:
 
-1. Click "Login". You will be redirected to Spotify's website.
+1) Click "Login". You will be redirected to Spotify's website.
 
 <img src="{% link images/projects_media/20230526_demospotify/00_login.png %}" alt="" data-position="center center" />
 
-2. Login to Spotify and click "Agree".
+2) Login to Spotify and click "Agree".
 
 <img src="{% link images/projects_media/20230526_demospotify/01_agree.png %}" alt="" data-position="center center" />
 
-3. Grab the code from the URL.
+3) Grab the code from the URL.
 
 <img src="{% link images/projects_media/20230526_demospotify/02_code.png %}" alt="" data-position="center center" />
 
-4. Copy the code into the app.
+4) Copy the code into the app.
 
 <img src="{% link images/projects_media/20230526_demospotify/03_copy.png %}" alt="" data-position="center center" />
 
-5. You can now search for tracks if the provided code is correct.
+5) You can now search for tracks if the provided code is correct.
 
 <img src="{% link images/projects_media/20230526_demospotify/04_search.png %}" alt="" data-position="center center" />
 
-6. You can play songs, change playback speed, adjust volume, etc.
+6) You can play songs, change playback speed, adjust volume, etc.
 
 <img src="{% link images/projects_media/20230526_demospotify/05_play.png %}" alt="" data-position="center center" />
 
-7. You can add songs to playlists.
+7) You can add songs to playlists.
 
 <img src="{% link images/projects_media/20230526_demospotify/06_playlist.png %}" alt="" data-position="center center" />
 
-8. The red icon at the top right has instructions that can help you navigate through the app.
+8) The red icon at the top right has instructions that can help you navigate through the app.
 
 <img src="{% link images/projects_media/20230526_demospotify/07_instruction.png %}" alt="" data-position="center center" />
