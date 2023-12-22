@@ -29,12 +29,12 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projects_description/20230526_demospotify.html" class="image">
-			<img src="{% link images/projects_media/20230526_demospotify/00.png %}" alt="" data-position="top center" />
+			<img src="{% link images/projects_media/20230526_demospotify/05_play.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>[COMPLETED] Class Project: Spotify Demo Music Player</h3>
+					<h3>[COMPLETED] Class Project: Java Spotify Music Player</h3>
 				</header>
 				<p>For my project in CSc 335: Object-Oriented Programming (Java), we used the MVC model as well as many Object-Oriented design patterns to create a music player that can search for songs on Spotify (or at least songs that Spotify allows us to play) using the Spotify API. I was primarily responsible for keeping track of tasks using Trello and coding classes so that the music player could communicate with the Spotify API.</p>
 				<ul class="actions">
