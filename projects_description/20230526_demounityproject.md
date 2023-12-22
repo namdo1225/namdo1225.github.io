@@ -12,6 +12,7 @@ show_tile: false
   <li>Tools/Languages: C#, Unity, Unity Assets</li>
   <li>Environment: Final Class Project, Group of 4</li>
   <li>Timeline: 3 weeks</li>
+  <li>GitHub: <a href="https://github.com/namdo1225/GAME351_FinalProject">Repository</a></li>
 </ul>
 
 ## Description
