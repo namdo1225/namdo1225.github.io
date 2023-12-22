@@ -91,6 +91,22 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="projects_description/20231222_xtank.html" class="image">
+			<img src="{% link images/projects_media/20231222_xtank/03_battle.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>[COMPLETED] XTank Refresh</h3>
+				</header>
+				<p>I used Java and SWT (<a href="https://www.eclipse.org/swt/">Source</a>) to create a game that is reminiscent of the old Tank games (<a href="https://www.retrogames.cz/play_1412-NES.php">Emulated</a>). It has local multiplayer. Players have the ability to choose from many different maps and tank types.</p>
+				<ul class="actions">
+					<li><a href="projects_description/20231222_xtank.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
 
 </div>
