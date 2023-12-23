@@ -35,6 +35,6 @@ This is the first time I have had a big graphical project in Java. In it, I have
 
 <img src="{% link images/projects_media/20231222_concentration/02_game.png %}" alt="" data-position="center center" />
 
-4) Click on "Update latest game's winner" to get the winner(s) displayed. Also, don't forget to check out <a href="https://icons8.com/">Icons8</a></li> for providing the game's icons!
+4) Click on "Update latest game's winner" to get the winner(s) displayed. Also, don't forget to check out <a href="https://icons8.com/">Icons8</a> for providing the game's icons!
 
 <img src="{% link images/projects_media/20231222_concentration/03_winner.png %}" alt="" data-position="center center" />
