@@ -17,9 +17,9 @@ show_tile: false
 
 ## Description
 
-For a class project in my Objected-Oriented Programming class, I created a Matching/Concentration computer game using Java and Swing. You can customize the amount of players, the rules of the game (extra and random turn), how many cards to play with, the timer, and the deck's theme.
+For a class project in my Object-Oriented Programming class, I created a matching/concentration computer game using Java and Swing. You can customize the number of players, the rules of the game (extra and random turns), how many cards to play with, the timer, and the deck’s theme.
 
-This is the first time I have a big graphical project in Java. In it, I have learned how to fully utilize a graphical library and how to separate the frontend and backend into modules. I have also used Object Oriented Programming principles such as polymorphism to make my user interfaces much more organized and reusable.
+This is the first time I have had a big graphical project in Java. In it, I have learned how to fully utilize a graphical library and how to separate the frontend and backend into modules. I have also used object-oriented programming principles, such as polymorphism, to make my user interfaces much more organized and reusable.
 
 ## Instruction to use:
 
