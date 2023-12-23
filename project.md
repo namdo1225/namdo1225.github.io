@@ -109,14 +109,14 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projects_description/20231222_concentration.html" class="image">
-			<img src="{% link images/projects_media/20231222_xtank/02_game.png %}" alt="" data-position="top center" />
+			<img src="{% link images/projects_media/20231222_concentration/02_game.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>[COMPLETED] Concentration</h3>
 				</header>
-				<p>I used Java and Swing to recreate the Memory Matching/Concentration game. You can adjust the amount of players, the timer, the rules of the game, how many cards will be in the game, and the deck's theme.</p>
+				<p>I used Java and Swing to recreate the memory matching/concentration game. You can adjust the number of players, the timer, the rules of the game, how many cards will be in the game, and the deck's theme.</p>
 				<ul class="actions">
 					<li><a href="projects_description/20231222_concentration.html" class="button">Learn more</a></li>
 				</ul>
