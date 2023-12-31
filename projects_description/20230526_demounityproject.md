@@ -17,7 +17,7 @@ show_tile: false
 
 ## Description
 
-For the final class project in my introduction to game design, my team and I are tasked with creating a 5 minutes playable demo of a game. We decided on making a platforming horror game. I was primarily responsible for designing the UI with proper control flows, but I also dabbled in many aspects of the project overall including scripting in C#, debugging, organizing project folders and hierarchy, and modifying game logic in Unity.
+For the final class project in my introduction to game design, my team and I are tasked with creating a 5-minute playable demo of a game. We decided on making a platform horror game. I was primarily responsible for designing the UI with proper control flows, but I also dabbled in many aspects of the project overall, including scripting in C#, debugging, organizing project folders and hierarchy, and modifying game logic in Unity.
 
 ## Video
 
@@ -31,8 +31,8 @@ You can watch this video (as narrated by me) for more information:
 
 As you can see from the video, I set up the main menu, buttons, and UI. With the help of Youtube videos, I was able to program the player's movement and camera rotation.
 
-Besides UI, I mainly augument aspects of the project that my team members did as well as combining everything together:
+Besides UI, I mainly augment aspects of the project that my team members did, as well as combine everything together:
 <ol>
-  <li>One member programmed the obstacles, but for some reason, the speed and movement range of the obstacle was linked. I was able to separate both features into separate variables so the barrier's speed and distance could be adjusted independently.</li>
+  <li>One member programmed the obstacles, but for some reason, the speed and movement range of the obstacle were linked. I was able to separate both features into separate variables so the barrier's speed and distance could be adjusted independently.</li>
   <li>I updated another's member movement script so that the player's movement, dash, etc. would flow along with the third-person camera.</li>
 </ol>
