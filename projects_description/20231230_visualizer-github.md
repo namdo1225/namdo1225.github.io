@@ -23,7 +23,7 @@ For a 4-member group project, we created a Windows program that can abstract man
 
 I originally wrote the various methods to interact with the GitHub API and created the unit tests. However, after forking on it, I solely continued to develop the app, including working with Window Forms to polish the UI and working with other APIs to work with local repositories.
 
-## Instruction to use:
+## Instructions to use:
 
 1) If you want to work with your remote repositories on GitHub, login with GitHub. Otherwise, you can use the local workspace.
 
@@ -38,22 +38,22 @@ I originally wrote the various methods to interact with the GitHub API and creat
 
 <img src="{% link images/projects_media/20231230_visualizer-github/04_congrats.png %}" alt="" data-position="center center" />
 
-4) You can create a new repositories, clone a remote repositories, and even track directories that contain your local repositories.
+4) You can create new repositories, clone remote repositories, and even track directories that contain your local repositories.
 
 <img src="{% link images/projects_media/20231230_visualizer-github/05_repo.png %}" alt="" data-position="center center" />
 
-5) You can go to the "Branches" tab and view your repository's branches.
+5) You can go to the “Branches” tab and view your repository’s branches.
 
 <img src="{% link images/projects_media/20231230_visualizer-github/06_branch.png %}" alt="" data-position="center center" />
 
-6) You can go to the "Changes" tab, stage/unstage, and commit any changes you have made to your projects.
+6) You can go to the “Changes” tab, stage or unstage, and commit any changes you have made to your projects.
 
 <img src="{% link images/projects_media/20231230_visualizer-github/07_changes.png %}" alt="" data-position="center center" />
 
-7) If you have committed the changes, it should be reflected back in the "Branches" tab.
+7) If you have committed the changes, they should be reflected back in the “Branches” tab.
 
 <img src="{% link images/projects_media/20231230_visualizer-github/08_committed.png %}" alt="" data-position="center center" />
 
-8) You could click on the "Settings" tab to change some configurations and get more information about the app.
+8) You could click on the “Settings” tab to change some configurations and get more information about the app.
 
 <img src="{% link images/projects_media/20231230_visualizer-github/09_settings.png %}" alt="" data-position="center center" />
