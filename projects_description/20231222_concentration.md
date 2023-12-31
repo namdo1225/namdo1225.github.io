@@ -21,7 +21,7 @@ For a class project in my Object-Oriented Programming class, I created a matchin
 
 This is the first time I have had a big graphical project in Java. In it, I have learned how to fully utilize a graphical library and how to separate the frontend and backend into modules. I have also used object-oriented programming principles, such as polymorphism, to make my user interfaces much more organized and reusable.
 
-## Instruction to use:
+## Instructions to use:
 
 1) Click "Start" to start the game.
 
@@ -31,7 +31,7 @@ This is the first time I have had a big graphical project in Java. In it, I have
 
 <img src="{% link images/projects_media/20231222_concentration/01_setting.png %}" alt="" data-position="center center" />
 
-3) Play through the game or you can end the game prematurely by clicking "End Current Game".
+3) Play through the game, or you can end the game prematurely by clicking "End Current Game".
 
 <img src="{% link images/projects_media/20231222_concentration/02_game.png %}" alt="" data-position="center center" />
 
