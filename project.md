@@ -20,7 +20,7 @@ nav-menu: true
 				<header class="major">
 					<h3>[IN-PROGRESS] GitVisualizer</h3>
 				</header>
-				<p>For a 4-member group project, we created a Windows program that can abstract many Git commands and provide a visual interface for these functionalities.</p>
+				<p>For a 4-member group project, we created a Windows program that can abstract many Git commands and provide a visual interface for these functionalities. The app can also interact with the GitHub API, allowing you to interact with remote repositories on your GitHub page.</p>
 				<ul class="actions">
 					<li><a href="projects_description/20231230_visualizer-github.html" class="button">Learn more</a></li>
 				</ul>
