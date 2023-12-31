@@ -16,4 +16,4 @@ show_tile: false
 
 ## Description
 
-I used Jekyll, a static site generator, that aids in the creation of static sites. This tool is often useful for sites that are more about presenting and storing static data like your resume or project portfolio. Using GitHub's ability to host webpage, I was able to host this website under my GitHub's username.
+I used Jekyll, a static site generator that aids in the creation of static sites. This tool is often useful for sites that are more about presenting and storing static data, like your resume or project portfolio. Using GitHub's ability to host webpages, I was able to host this website under my GitHub username.
