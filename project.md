@@ -12,6 +12,22 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
+		<a href="projects_description/20231230_visualizer-github.html" class="image">
+			<img src="{% link images/projects_media/20231230_visualizer-github/05_repo.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>[IN-PROGRESS] GitVisualizer</h3>
+				</header>
+				<p>For a 4-member group project, we created a Windows program that can abstract many Git commands and provide a visual interface for these functionalities.</p>
+				<ul class="actions">
+					<li><a href="projects_description/20231230_visualizer-github.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="projects_description/20230526_demounityproject.html" class="image">
 			<img src="{% link images/projects_media/20230526_unitygamedemo/00.png %}" alt="" data-position="center center" />
 		</a>
