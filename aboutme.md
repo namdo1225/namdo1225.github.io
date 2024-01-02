@@ -48,7 +48,7 @@ I have also been previously tasked with app development. I was developing the or
 
 Through my IT job, I maintained an inventory of more than 300 university devices (desktops, laptops, etc.). I was primarily tasked with setting up these devices (installing OSes and so forth) so that they meet the university's and college's standards. Last but not least, like many others in IT, I resolved many tickets from users on ServiceNow, by email, or through walk-in support.
 
-I also worked as a student worker for the JD-Next program (https://jd-next.org/), a "fully-online course (that) introduces students to the kinds of doctrinal concepts and legal skills that students will encounter at law school." I mainly provided technical support for the student and the organizational team as needed, but I also dabbled in Visual Basic for Applications in Excel and mail merge to create various PDF reports and CSV files.
+I also worked as a student worker for the [JD-Next program](https://jd-next.org/), a "fully-online course (that) introduces students to the kinds of doctrinal concepts and legal skills that students will encounter at law school." I mainly provided technical support for the student and the organizational team as needed, but I also dabbled in Visual Basic for Applications in Excel and mail merge to create various PDF reports and CSV files.
 
 As a last note, back in high school, my school had a work study program that I participated in. I got the opportunity to work at Sun Tran and O'Rielly Chevrolet, mainly learning more about professional ethics and the office setting. This work study program is where I first started working for my IT job before being hired as their student worker.
 
