@@ -35,10 +35,11 @@ I originally wrote the various methods to interact with the GitHub API and creat
 <img src="{% link images/projects_media/20231230_visualizer-github/02_code.png %}" alt="" data-position="center center" />
 
 3) Accept the permission once you have entered the user code. You should now be able to see your repositories.
-
+4) 
+<img src="{% link images/projects_media/20231230_visualizer-github/03_agree.png %}" alt="" data-position="center center" />
 <img src="{% link images/projects_media/20231230_visualizer-github/04_congrats.png %}" alt="" data-position="center center" />
 
-4) You can create new repositories, clone remote repositories, and even track directories that contain your local repositories.
+5) You can create new repositories, clone remote repositories, and even track directories that contain your local repositories.
 
 <img src="{% link images/projects_media/20231230_visualizer-github/05_repo.png %}" alt="" data-position="center center" />
 
