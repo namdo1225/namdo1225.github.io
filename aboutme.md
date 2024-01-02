@@ -42,7 +42,7 @@ In addition, I also have familiarity with many types of programming paradigms an
 
 ## My Experience
 
-For my web development job at the Thaddeus Resource Center, I am pioneering the transition of the organization’s website from Webflow to Next.js. Back before I started, the website was developed and hosted on Webflow, a no-code website builder. With the help of the rest of the web squad, we have created a repository on GitHub to develop this new website in code. I have developed reusable React components in JavaScript that are widely utilized throughout the frontend. Currently, I am implementing a CRUD interface so that any company employee can create and modify website popups.
+For my web development job at the Thaddeus Resource Center, I am pioneering the transition of the organization’s website from Webflow to Next.js. Back before I started, the website was developed and hosted on Webflow, a no-code website builder. With the help of the rest of the web squad, we have created a repository on GitHub to develop this new website in code. I have developed reusable React components in JavaScript that are widely utilized throughout the frontend. Currently, I am implementing a CRUD interface so that any company employee can create and modify website pop-ups.
 
 I have also been previously tasked with app development. I was developing the organization's primary app in JavaScript and React Native. I created reusable components for the app's resource section that improve the reusability of the application overall while minimizing the amount of code. Currently, I am developing the journal section of the app, in which users can type in journal entries and record their daily mood.
 
