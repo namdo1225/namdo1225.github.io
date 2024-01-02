@@ -61,12 +61,12 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="projects_description/20230526_sfml19.html" class="image">
-			<img src="{% link images/projects_media/20230526_sfml19/00.png %}" alt="" data-position="25% 25%" />
+			<img src="{% link images/projects_media/20230526_sfml19/03_main.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>[V.2 COMPLETED] SFML19 Roguelike Dungeon</h3>
+					<h3>[V.2 COMPLETED] SFML Roguelike Dungeon</h3>
 				</header>
 				<p>This is a personal project in which I use a custom graphics library called SFML (<a href="https://www.sfml-dev.org/">Source</a>) to make a simple, roguelike dungeon game. It is completed with some enemies, items, and level generation programmed out. There are spots for more features, so I might come back to it.</p>
 				<ul class="actions">
