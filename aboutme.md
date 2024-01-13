@@ -5,6 +5,11 @@ description: Learn more about Nam Do.
 image: images/20230524_Portrait_IMG_0316.JPG
 nav-menu: true
 style: |
+  .stat {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
   .portrait {
     display: block;
     margin-left: auto;
@@ -39,7 +44,9 @@ Hi, I am Nam Do. I am a B.S. Computer Science graduate at the University of Ariz
 
 ## My Skill
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namdo1225&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a class="stat" href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namdo1225&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs">
+</a>
 
 As a CS graduate, I am experienced with many programming languages, including C, C++, C#, Java, JavaScript, and Python. This includes web development languages such as HTML and CSS as well. I have been involved in many projects, including using Unity to create a playable demo of a game and creating a music player that could look up demo music on Spotify using the Spotify API.
 
