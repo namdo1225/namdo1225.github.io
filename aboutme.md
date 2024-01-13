@@ -5,6 +5,9 @@ description: Learn more about Nam Do.
 image: images/20230524_Portrait_IMG_0316.JPG
 nav-menu: true
 style: |
+  .stat-link {
+    text-align: center;
+  }
   .stat {
     display: block;
     margin-left: auto;
@@ -44,7 +47,7 @@ Hi, I am Nam Do. I am a B.S. Computer Science graduate at the University of Ariz
 
 ## My Skill
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a class="stat-link" href="https://github.com/anuraghazra/github-readme-stats">
   <img class="stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namdo1225&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs">
 </a>
 
