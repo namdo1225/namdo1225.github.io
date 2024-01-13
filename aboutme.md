@@ -6,12 +6,10 @@ image: images/20230524_Portrait_IMG_0316.JPG
 nav-menu: true
 style: |
   .stat-link {
-    text-align: center;
-  }
-  .stat {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
   }
   .portrait {
     display: block;
@@ -46,10 +44,11 @@ style: |
 Hi, I am Nam Do. I am a B.S. Computer Science graduate at the University of Arizona and am currently searching for an internship or job related to software engineering and web development. I have worked as an information technology student worker at the James E. Rogers College of Law for more than 4 years. I am also a Web Development Intern at the Thaddeus Resource Center, pioneering the transition of the organization’s website from Webflow to Next.js.
 
 ## My Skill
-
-<a class="stat-link" href="https://github.com/anuraghazra/github-readme-stats">
-  <img class="stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namdo1225&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs">
-</a>
+<div class="stat-link">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namdo1225&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs">
+  </a>
+</div>
 
 As a CS graduate, I am experienced with many programming languages, including C, C++, C#, Java, JavaScript, and Python. This includes web development languages such as HTML and CSS as well. I have been involved in many projects, including using Unity to create a playable demo of a game and creating a music player that could look up demo music on Spotify using the Spotify API.
 
