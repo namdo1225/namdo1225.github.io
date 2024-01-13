@@ -44,8 +44,8 @@ Hi, I am Nam Do. I am a B.S. Computer Science graduate at the University of Ariz
 
 ## My Skill
 
-<a class="stat" href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namdo1225&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img class="stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namdo1225&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs">
 </a>
 
 As a CS graduate, I am experienced with many programming languages, including C, C++, C#, Java, JavaScript, and Python. This includes web development languages such as HTML and CSS as well. I have been involved in many projects, including using Unity to create a playable demo of a game and creating a music player that could look up demo music on Spotify using the Spotify API.
