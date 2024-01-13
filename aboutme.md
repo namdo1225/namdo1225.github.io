@@ -27,6 +27,10 @@ style: |
 {{ page.style }}
 </style>
 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="100" width="100">
+  <path d="M0 50 L25 50 L25 97 L75 97 L75 50 L97 50" stroke="black" stroke-width="3" fill="none"/>
+</svg>
 
 # Nam Do
 
