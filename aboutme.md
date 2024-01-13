@@ -50,6 +50,8 @@ Hi, I am Nam Do. I am a B.S. Computer Science graduate at the University of Ariz
   </a>
 </div>
 
+
+
 As a CS graduate, I am experienced with many programming languages, including C, C++, C#, Java, JavaScript, and Python. This includes web development languages such as HTML and CSS as well. I have been involved in many projects, including using Unity to create a playable demo of a game and creating a music player that could look up demo music on Spotify using the Spotify API.
 
 In addition, I also have familiarity with many types of programming paradigms and approaches, such as the Design Patterns of Object-Oriented Programming and Agile development.
