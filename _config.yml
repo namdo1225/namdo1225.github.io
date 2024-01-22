@@ -1,7 +1,7 @@
 # site settings
 title: Nam Do
 email: namdo1204@gmail.com
-description: An upcoming Computer Science graduate with professional experience in app development and IT technical support.
+description: A Computer Science graduate with professional experience in web development and IT technical support.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Nam Do
