@@ -34,8 +34,6 @@ style: |
 {{ page.style }}
 </style>
 
-<?xml version="1.0" encoding="UTF-8"?>
-
 # Nam Do
 
 <img class="portrait" src="https://raw.githubusercontent.com/namdo1225/namdo1225.github.io/master/images/20230524_Portrait_IMG_0316.JPG" alt="Nam Do's Portrait" />
