@@ -12,6 +12,22 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
+		<a href="projects_description/20240401_website.html" class="image">
+			<img src="{% link images/projects_media/20240401_website.html/00_intro.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>[ACTIVELY MAINTAINING] Thaddeus Resource Center Website</h3>
+				</header>
+				<p>The Thaddeus Resource Center website was originally built using a website builder. While that was great, we eventually switched to developing it in TypeScript and React, allowing us to cut costs, add new features, and learn more about the programming world.</p>
+				<ul class="actions">
+					<li><a href="projects_description/20240401_website.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="projects_description/20231230_visualizer-github.html" class="image">
 			<img src="{% link images/projects_media/20231230_visualizer-github/05_repo.png %}" alt="" data-position="center center" />
 		</a>
