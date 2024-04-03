@@ -40,7 +40,7 @@ style: |
 
 ## Overview
 
-Hi, I am Nam Do. I am a B.S. Computer Science graduate at the University of Arizona and am currently searching for an internship or job related to software engineering and web development. I have worked as an information technology student worker at the James E. Rogers College of Law for more than 4 years. I am also a Web Development Intern at the Thaddeus Resource Center, pioneering the transition of the organization’s website from Webflow to Next.js.
+Hi, I am Nam Do. I am a B.S. Computer Science graduate at the University of Arizona and am currently searching for an internship or job related to software engineering and web development. I am also a Web Development Intern at the Thaddeus Resource Center, pioneering the transition of the organization’s website from Webflow to Next.js. I have worked as an information technology student worker at the James E. Rogers College of Law for five years.
 
 ## My Skill
 <div class="stat-link">
@@ -48,7 +48,6 @@ Hi, I am Nam Do. I am a B.S. Computer Science graduate at the University of Ariz
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namdo1225&amp;layout=compact&amp;theme=vision-friendly-dark" alt="Top Langs">
   </a>
 </div>
-
 
 
 As a CS graduate, I am experienced with many programming languages, including C, C++, C#, Java, JavaScript, and Python. This includes web development languages such as HTML and CSS as well. I have been involved in many projects, including using Unity to create a playable demo of a game and creating a music player that could look up demo music on Spotify using the Spotify API.
@@ -59,7 +58,7 @@ In addition, I also have familiarity with many types of programming paradigms an
 
 For my web development job at the Thaddeus Resource Center, I am pioneering the transition of the organization’s website from Webflow to Next.js. Back before I started, the website was developed and hosted on Webflow, a no-code website builder. With the help of the rest of the web squad, we have created a repository on GitHub to develop this new website in code. I have developed reusable React components in JavaScript that are widely utilized throughout the frontend. Currently, I am implementing a CRUD interface so that any company employee can create and modify website pop-ups.
 
-I have also been previously tasked with app development. I was developing the organization's primary app in JavaScript and React Native. I created reusable components for the app's resource section that improve the reusability of the application overall while minimizing the amount of code. Currently, I am developing the journal section of the app, in which users can type in journal entries and record their daily mood.
+I have also been previously tasked with app development. I was developing the organization's primary app in JavaScript and React Native. I created reusable components for the app's resource section that improve the reusability of the application overall while minimizing the amount of code. Currently, I am helping to transition the app to use Azure so that we can take advantage of its Azure Communication Services, which allow you to video call and chat with other users.
 
 Through my IT job, I maintained an inventory of more than 300 university devices (desktops, laptops, etc.). I was primarily tasked with setting up these devices (installing OSes and so forth) so that they meet the university's and college's standards. Last but not least, like many others in IT, I resolved many tickets from users on ServiceNow, by email, or through walk-in support.
 
