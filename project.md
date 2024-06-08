@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one" class="spotlights">
 	<section>
 		<a href="projects_description/20240607_chat-app.html" class="image">
-			<img src="{% link images/projects_media/20240401_website/00_intro.png %}" alt="" data-position="top center" />
+			<img src="{% link images/projects_media/20240607_chat-app/00_cover.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
