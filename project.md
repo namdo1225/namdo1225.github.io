@@ -12,6 +12,23 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
+		<a href="projects_description/20240607_chat-app.html" class="image">
+			<img src="{% link images/projects_media/20240401_website/00_intro.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>[COMPLETED] CAChat App</h3>
+				</header>
+				<p>This is a chat app with many customization features, end-to-end encryption, and other amazing features that allow you to keep up with your friends from anywhere.
+</p>
+				<ul class="actions">
+					<li><a href="projects_description/20240607_chat-app.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="projects_description/20240401_website.html" class="image">
 			<img src="{% link images/projects_media/20240401_website/00_intro.png %}" alt="" data-position="top center" />
 		</a>
