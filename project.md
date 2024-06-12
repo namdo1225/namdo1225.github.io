@@ -18,7 +18,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>[COMPLETED] CAChat App</h3>
+					<h3>[COMPLETED] CAChat - A Chat App Website</h3>
 				</header>
 				<p>This is a chat app with many customization features, end-to-end encryption, and other amazing features that allow you to keep up with your friends from anywhere.
 </p>
