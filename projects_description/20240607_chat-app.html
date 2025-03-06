@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+	<title>CAChat - A Chat App Website | Nam Do</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<!--[if lte IE 8]><script src="/forty-jekyll-theme/assets/js/ie/html5shiv.js"></script><![endif]-->
+	<link rel="stylesheet" href="/forty-jekyll-theme/assets/css/main.css" />
+	<link rel="icon" type="image/png" sizes="512x512" href="/forty-jekyll-theme/images/fav.png" />
+	<!--[if lte IE 9]><link rel="stylesheet" href="/forty-jekyll-theme/assets/css/ie9.css" /><![endif]-->
+	<!--[if lte IE 8]><link rel="stylesheet" href="/forty-jekyll-theme/assets/css/ie8.css" /><![endif]-->
+</head>
+
+
+<body>
+
+    <!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Header -->
+<header id="header">
+	<a href="/forty-jekyll-theme/" class="logo"><strong>Nam Do</strong> <span></span></a>
+	<nav>
+		<a href="#menu">Menu</a>
+	</nav>
+</header>
+
+<!-- Menu -->
+<nav id="menu">
+	<ul class="links">
+        
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		        <li><a href="/forty-jekyll-theme/">Home</a></li>
+	    	
+		
+		    
+		
+		    
+		
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		        <li><a href="/forty-jekyll-theme/aboutme.html">About Me</a></li>
+		    
+		
+		    
+		        <li><a href="/forty-jekyll-theme/all_posts.html">All Posts</a></li>
+		    
+		
+		    
+		
+		    
+		        <li><a href="/forty-jekyll-theme/project.html">Project</a></li>
+		    
+		
+	</ul>
+</nav>
+ 
+    
+    
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>CAChat - A Chat App Website</h1>
+		</header>
+		
+		<h2 id="project-specification">Project Specification</h2>
+<ul>
+  <li>Tools/Languages: TypeScript (JavaScript), React, Supabase (PostgreSQL), Node.js, Cypress, Jest, and other Node libraries</li>
+  <li>Workflow tools: GitHub Planner and GitHub Actions</li>
+  <li>Environment: Solo full-stack developer</li>
+  <li>Timeline: Actively maintaining as needed</li>
+  <li>Project Link: <a href="https://chat-app-go19.onrender.com">Website</a>, <a href="https://github.com/namdo1225/chat-app">Repository</a>, <a href="https://youtu.be/i5-T1kOSDrs">Demo</a></li>
+</ul>
+
+<h2 id="description">Description</h2>
+
+<p>This is a chat app with many customization features, end-to-end encryption, and other amazing features that allow you to keep up with your friends from anywhere. Create private chats just for you and your friends, or discoverable chats that anyone can join. Encryption features can also encrypt your message so that only you and your friends can read it. This is a comprehensive chat app that allows you to do many things, so join us!</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240607_chat-app/00_cover.png" alt="" data-position="center center" /></p>
+
+<h3 id="video-demo">Video Demo</h3>
+
+<div class="video-container">
+  <iframe width="800" height="600" src="https://www.youtube.com/embed/i5-T1kOSDrs?si=1bfvRQU4ln-nUAGj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+</div>
+
+<h3 id="backend">Backend</h3>
+
+<p>The server is developed in Node.js, hosted on Render, and containerized via Docker. It is secured by Render’s SSL enforcement. This is where most of the communications with the database (Supabase cloud service) and secure logic of the application happen.</p>
+
+<p>While Supabase has the ability to provide a server-less backend, I do not think that it is ready for that yet. Instead, I decided to encapsulate it via this server to perform heavier tasks like data type validations, acting as an API endpoint for the website’s contact form, and Hcaptcha verifier.</p>
+
+<h3 id="frontend">Frontend</h3>
+
+<p>The frontend is developed using React, with MaterialUI being the main UI library used. Powered by MaterialUI, I was able to have cometic features like dark mode and chat customization. For the most part, MaterialUI is responsive, pretty, and simple to look at. In the past, I have used TailwindCSS, but I felt that I should try experimenting with more established libraries.</p>
+
+<p>Here is a collage from this website:</p>
+
+<p><a href="https://chat-app-go19.onrender.com/">Home</a>:</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240607_chat-app/07_home.png" alt="" data-position="center center" /></p>
+
+<p><a href="https://chat-app-go19.onrender.com/chats">Chats</a>:</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240607_chat-app/00_cover.png" alt="" data-position="center center" /></p>
+
+<p><a href="https://chat-app-go19.onrender.com/friends">Friends</a>:</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240607_chat-app/03_friends.png" alt="" data-position="center center" /></p>
+
+<p><a href="https://chat-app-go19.onrender.com/discover">Discover</a>:</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240607_chat-app/06_discover.png" alt="" data-position="center center" /></p>
+
+<p>Protected Routes:</p>
+
+<p>Profile:</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240607_chat-app/04_profile.png" alt="" data-position="center center" /></p>
+
+<p>Account:</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240607_chat-app/05_account.png" alt="" data-position="center center" /></p>
+
+<p>You can customize the appearances of the website:</p>
+
+<p>Dark mode:</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240607_chat-app/01_dark.png" alt="" data-position="center center" /></p>
+
+<p>Chat and Message:</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240607_chat-app/02_preference.png" alt="" data-position="center center" /></p>
+
+	</div>
+</section>
+
+</div>
+
+    <style>
+	textarea {
+		resize:vertical;
+	}
+</style>
+
+<!-- Contact -->
+<section id="contact">
+	<div class="inner">
+		<section>
+			<form action="https://formspree.io/f/xvojyzgw" method="POST">
+				<div class="field half first">
+					<label for="name">Name</label>
+					<input type="text" name="name" id="name" required />
+				</div>
+				<div class="field half">
+					<label for="email">Email</label>
+					<input type="email" name="_replyto" id="email" required />
+				</div>
+				<div class="field">
+					<label for="message">Message</label>
+					<textarea name="message" id="message" rows="6" required></textarea>
+				</div>
+				<ul class="actions">
+					<li><input type="submit" value="Send Message" class="special" /></li>
+					<li><input type="reset" value="Clear" /></li>
+				</ul>
+			</form>
+		</section>
+		<section class="split">
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-search"></span>
+					<h3>Resume</h3>
+					<a href="../documents/Resume.pdf">Click here for my resume.</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-envelope"></span>
+					<h3>Email</h3>
+					<a href="mailto:namdo1204@gmail.com">namdo1204@gmail.com</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-phone"></span>
+					<h3>Phone</h3>
+					<a href="tel:(520) 265-6455">(520) 265-6455</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
+					<h3>Address</h3>
+					<span>
+					
+					    Surprise,
+					
+					
+					    AZ,
+					
+					
+					    United States of America
+					
+					</span>
+				</div>
+			</section>
+		</section>
+	</div>
+</section>
+
+<!-- Footer -->
+	<footer id="footer">
+		<div class="inner">
+			<ul class="icons">
+				
+					
+						<li>
+							<a href="https://github.com/namdo1225" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+								<span class="label">GitHub</span>
+							</a>
+						</li>
+					
+				
+					
+						<li>
+							<a href="https://www.linkedin.com/in/nam-do-630bb2173/" class="icon alt fa-linkedin" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+								<span class="label">LinkedIn</span>
+							</a>
+						</li>
+					
+				
+			</ul>
+			<ul class="copyright">
+				<li>&copy; Nam Do </li>
+				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+
+			</ul>
+		</div>
+	</footer>
+
+</div>
+
+<!-- Scripts -->
+	<script src="/forty-jekyll-theme/assets/js/jquery.min.js"></script>
+	<script src="/forty-jekyll-theme/assets/js/jquery.scrolly.min.js"></script>
+	<script src="/forty-jekyll-theme/assets/js/jquery.scrollex.min.js"></script>
+	<script src="/forty-jekyll-theme/assets/js/skel.min.js"></script>
+	<script src="/forty-jekyll-theme/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="/forty-jekyll-theme/assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="/forty-jekyll-theme/assets/js/main.js"></script>
+
+
+</body>
+
+</html>

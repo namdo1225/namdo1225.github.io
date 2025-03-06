@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+	<title>SFML19 Roguelike Dungeon | Nam Do</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<!--[if lte IE 8]><script src="/forty-jekyll-theme/assets/js/ie/html5shiv.js"></script><![endif]-->
+	<link rel="stylesheet" href="/forty-jekyll-theme/assets/css/main.css" />
+	<link rel="icon" type="image/png" sizes="512x512" href="/forty-jekyll-theme/images/fav.png" />
+	<!--[if lte IE 9]><link rel="stylesheet" href="/forty-jekyll-theme/assets/css/ie9.css" /><![endif]-->
+	<!--[if lte IE 8]><link rel="stylesheet" href="/forty-jekyll-theme/assets/css/ie8.css" /><![endif]-->
+</head>
+
+
+<body>
+
+    <!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Header -->
+<header id="header">
+	<a href="/forty-jekyll-theme/" class="logo"><strong>Nam Do</strong> <span></span></a>
+	<nav>
+		<a href="#menu">Menu</a>
+	</nav>
+</header>
+
+<!-- Menu -->
+<nav id="menu">
+	<ul class="links">
+        
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		        <li><a href="/forty-jekyll-theme/">Home</a></li>
+	    	
+		
+		    
+		
+		    
+		
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		        <li><a href="/forty-jekyll-theme/aboutme.html">About Me</a></li>
+		    
+		
+		    
+		        <li><a href="/forty-jekyll-theme/all_posts.html">All Posts</a></li>
+		    
+		
+		    
+		
+		    
+		        <li><a href="/forty-jekyll-theme/project.html">Project</a></li>
+		    
+		
+	</ul>
+</nav>
+ 
+    
+    
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>SFML19 Roguelike Dungeon</h1>
+		</header>
+		
+		<h2 id="project-specification">Project Specification</h2>
+<ul>
+  <li>Tools/Languages: C++, SFML (<a href="https://www.sfml-dev.org/">Source</a>), Visual Studio</li>
+  <li>Environment: Personal Project</li>
+  <li>Timeline: 1 year (30 ~ 60 minutes every other day). Started in 2020.</li>
+  <li>Github: <a href="https://github.com/namdo1225/SFML19_RoguelikeDungeon">Repository</a></li>
+</ul>
+
+<h2 id="description">Description</h2>
+
+<p>I used SFML, a graphics library, in order to create a simple roguelike dungeon game. This genre is typically a game where the player character has to traverse a (usually endless) dungeon. They can fight enemies, collect items, purchase products in shops, and use spells.</p>
+
+<p>I also created the sound effects and sprites.</p>
+
+<p>Features:</p>
+<ul>
+  <li>Randomly generated (and potentially endless, as far as the int upper bound allows).</li>
+  <li>Randomly placed enemies that can seek and kill you if you get too close.</li>
+  <li>Randomly placed items and gold.</li>
+  <li>Use shops to buy and sell items and spells.</li>
+  <li>You can customize your character with different equipment and spells.</li>
+  <li>You can fight monsters and level up your characters to get stronger.</li>
+  <li>There's a stat system to roleplay and balance your character.</li>
+  <li>A save system to record your progress in the game.</li>
+</ul>
+
+<h2 id="process">Process</h2>
+
+<p>To implement these different features, I needed to apply the object-oriented programming paradigm. There are spells, items, the interface, enemies, and so forth. Many of these more general types of objects typically receive a parent class. Specific enemies, like zombies, are the sub-classes of one of these parent classes.</p>
+
+<p>I use other techniques, like method overriding and overloading, in order to make my classes very flexible and extensible.</p>
+
+<p>For my 2024 improvement of this game, I overhauled the UI by encapsulating the UI components further into subclasses. Because of that, it makes creating and switching screens extremely easy. I can now add new screens with minimal work and do not have to insert little codes in many different places.</p>
+
+<p>With the UI changes, buttons are now more responsive. They can now be hovered over, and their appearance can change.</p>
+
+<p>With the new way of adding screens, I added new features such as a setting screen that can maintain players’s preferences across game sessions, such as font or light/dark mode selection.</p>
+
+<h2 id="disclaimer">Disclaimer</h2>
+
+<p>I started this project back in 2020. I recently updated the documentation and tried to clean up the code a bit. I wanted to post it here to show how much I have grown as a programmer. Therefore, this project does not reflect my current programming capability (plus, C++ is somewhat old; I prefer C#, which makes things cleaner and shorter).</p>
+
+<h2 id="instructions-to-use">Instructions to use</h2>
+
+<p>1) Click “Start” to start the game.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/00_title.png" alt="" data-position="center center" /></p>
+
+<p>2) Enter a name and hit “Continue”. Note that there are some restricted characters for the name.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/01_name.png" alt="" data-position="center center" /></p>
+
+<p>3) Select your stats and click “Continue”.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/02_stat.png" alt="" data-position="center center" /></p>
+
+<p>4) You can now play the game! Use the arrow keys to move around. You can use the buttons on the bottom left to enable some QoL features.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/03_main.png" alt="" data-position="center center" /></p>
+
+<p>5) Click “…” to view the menu. Click “Help” to get more instructions.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/04_menu.png" alt="" data-position="center center" />
+<img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/04_menuhelp.png" alt="" data-position="center center" /></p>
+
+<p>6) Click “Map” to view a minimap of the dungeon. You can exit using the “X” button on the top right.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/05_map.png" alt="" data-position="center center" /></p>
+
+<p>7) Click “Equipment” to view your equipment and items.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/06_equipment.png" alt="" data-position="center center" /></p>
+
+<p>8) Click “Spells” to view your spells. You can only cast spells if you have enough mana.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/07_spell.png" alt="" data-position="center center" /></p>
+
+<p>9) The enemy sprite is very obvious. Click on them to attack them if you are in the weapon’s range. You can click the “S” button on the bottom left to scan the enemy’s stats when you hover over them.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/08_enemy.png" alt="" data-position="center center" /></p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/08_enemy_stat.png" alt="" data-position="center center" /></p>
+
+<p>10) Items look like barrels. Walk over them to pick them up. Go to your inventory to check on your new item.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/09_item.png" alt="" data-position="center center" /></p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/09_item_got.png" alt="" data-position="center center" /></p>
+
+<p>11) A coin and stair are shown here. Walk over the coin to pick it up. Go to the stairs and hit “Q” to go up a floor.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/10_stair_coin.png" alt="" data-position="center center" /></p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/11_stair_next.png" alt="" data-position="center center" /></p>
+
+<p>12) A shop has an “S” icon. Walk over it and hit “S” to buy and sell items.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/12_shop.png" alt="" data-position="center center" /></p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/13_shop_buy.png" alt="" data-position="center center" /></p>
+
+<p>13) You can click “Save” in the menu to save the game. A file should be created inside the game’s directory. You can then load the save file in the main menu.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/14_load.png" alt="" data-position="center center" /></p>
+
+<p>14) You can then resume the game after loading the save.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/15_resume.png" alt="" data-position="center center" /></p>
+
+<p>15) You can go to the settings screen to adjus the game’s font family, theme, light mode, etc.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20230526_sfml19/16_settings.png" alt="" data-position="center center" /></p>
+
+	</div>
+</section>
+
+</div>
+
+    <style>
+	textarea {
+		resize:vertical;
+	}
+</style>
+
+<!-- Contact -->
+<section id="contact">
+	<div class="inner">
+		<section>
+			<form action="https://formspree.io/f/xvojyzgw" method="POST">
+				<div class="field half first">
+					<label for="name">Name</label>
+					<input type="text" name="name" id="name" required />
+				</div>
+				<div class="field half">
+					<label for="email">Email</label>
+					<input type="email" name="_replyto" id="email" required />
+				</div>
+				<div class="field">
+					<label for="message">Message</label>
+					<textarea name="message" id="message" rows="6" required></textarea>
+				</div>
+				<ul class="actions">
+					<li><input type="submit" value="Send Message" class="special" /></li>
+					<li><input type="reset" value="Clear" /></li>
+				</ul>
+			</form>
+		</section>
+		<section class="split">
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-search"></span>
+					<h3>Resume</h3>
+					<a href="../documents/Resume.pdf">Click here for my resume.</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-envelope"></span>
+					<h3>Email</h3>
+					<a href="mailto:namdo1204@gmail.com">namdo1204@gmail.com</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-phone"></span>
+					<h3>Phone</h3>
+					<a href="tel:(520) 265-6455">(520) 265-6455</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
+					<h3>Address</h3>
+					<span>
+					
+					    Surprise,
+					
+					
+					    AZ,
+					
+					
+					    United States of America
+					
+					</span>
+				</div>
+			</section>
+		</section>
+	</div>
+</section>
+
+<!-- Footer -->
+	<footer id="footer">
+		<div class="inner">
+			<ul class="icons">
+				
+					
+						<li>
+							<a href="https://github.com/namdo1225" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+								<span class="label">GitHub</span>
+							</a>
+						</li>
+					
+				
+					
+						<li>
+							<a href="https://www.linkedin.com/in/nam-do-630bb2173/" class="icon alt fa-linkedin" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+								<span class="label">LinkedIn</span>
+							</a>
+						</li>
+					
+				
+			</ul>
+			<ul class="copyright">
+				<li>&copy; Nam Do </li>
+				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+
+			</ul>
+		</div>
+	</footer>
+
+</div>
+
+<!-- Scripts -->
+	<script src="/forty-jekyll-theme/assets/js/jquery.min.js"></script>
+	<script src="/forty-jekyll-theme/assets/js/jquery.scrolly.min.js"></script>
+	<script src="/forty-jekyll-theme/assets/js/jquery.scrollex.min.js"></script>
+	<script src="/forty-jekyll-theme/assets/js/skel.min.js"></script>
+	<script src="/forty-jekyll-theme/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="/forty-jekyll-theme/assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="/forty-jekyll-theme/assets/js/main.js"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+	<title>Thaddeus Resource Center Website | Nam Do</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<!--[if lte IE 8]><script src="/forty-jekyll-theme/assets/js/ie/html5shiv.js"></script><![endif]-->
+	<link rel="stylesheet" href="/forty-jekyll-theme/assets/css/main.css" />
+	<link rel="icon" type="image/png" sizes="512x512" href="/forty-jekyll-theme/images/fav.png" />
+	<!--[if lte IE 9]><link rel="stylesheet" href="/forty-jekyll-theme/assets/css/ie9.css" /><![endif]-->
+	<!--[if lte IE 8]><link rel="stylesheet" href="/forty-jekyll-theme/assets/css/ie8.css" /><![endif]-->
+</head>
+
+
+<body>
+
+    <!-- Wrapper -->
+<div id="wrapper">
+
+<!-- Header -->
+<header id="header">
+	<a href="/forty-jekyll-theme/" class="logo"><strong>Nam Do</strong> <span></span></a>
+	<nav>
+		<a href="#menu">Menu</a>
+	</nav>
+</header>
+
+<!-- Menu -->
+<nav id="menu">
+	<ul class="links">
+        
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		        <li><a href="/forty-jekyll-theme/">Home</a></li>
+	    	
+		
+		    
+		
+		    
+		
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		
+		    
+		        <li><a href="/forty-jekyll-theme/aboutme.html">About Me</a></li>
+		    
+		
+		    
+		        <li><a href="/forty-jekyll-theme/all_posts.html">All Posts</a></li>
+		    
+		
+		    
+		
+		    
+		        <li><a href="/forty-jekyll-theme/project.html">Project</a></li>
+		    
+		
+	</ul>
+</nav>
+ 
+    
+    
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Thaddeus Resource Center Website</h1>
+		</header>
+		
+		<h2 id="project-specification">Project Specification</h2>
+<ul>
+  <li>Tools/Languages: TypeScript (JavaScript), Next.js (React), Firebase (Google Cloud), Node.js, Cypress, and other Node libraries</li>
+  <li>Workflow tools: Jira, GitHub Planner, and GitHub Actions</li>
+  <li>Environment: Internship, teams of 5-6 interns</li>
+  <li>Timeline: Actively maintaining until internship ends</li>
+  <li>Project Link: <a href="https://www.thaddeus.org/">Website</a></li>
+</ul>
+
+<h2 id="description">Description</h2>
+
+<p>The Thaddeus Resource Center website was originally built using a website builder named Webflow. It allowed you to build a website essentially without touching any code. While that was great, we eventually switched to developing it in TypeScript and React, allowing us to cut costs, add new features, and learn more about the programming world. We also got the opportunity to standardize many processes when transitioning, such as providing proper training and documentation for the website.</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240401_website/00_intro.png" alt="" data-position="center center" /></p>
+
+<p>Note: Just in case you are reading this after I leave the internship, please forgive me for not updating the tenses.</p>
+
+<h2 id="my-contribution">My Contribution</h2>
+
+<p>I am a part of the web development team, and many of us are all responsible for the front-end and back-end of our organization’s main website. As needed, we could be assigned to improve the appearances of the front-end or be tasked to create or update back-end functionality.</p>
+
+<h3 id="popup-system">Popup System</h3>
+
+<p>My most important contribution is designing, implementing, and testing the popup system. The pop-up system allows logged-in employees to create and edit pop-ups. These pop-ups can inform website visitors of organization updates, advertisements, event notifications, or just general messages.</p>
+
+<p>I have set up permission such that while any intern can create and edit pop-ups, only administrative staff, such as our Executive Director, can delete or make a pop-up active (to be available for showing).</p>
+
+<p>The employees can customize many aspects of this pop-up, including adding a header and body message. They can add a button or make the entire pop-up take them to another website when clicked on. They can also pick between many templates (allowing pictures to be centered, left-justified, right-justified, or take up everything). Last but not least, the user can adjust the colors of a lot of these aspects, including the pop-up’s background and text’s color.</p>
+
+<p>When I developed the pop-up system, one of the user requirements of the system was that selected paths on the website could display their own unique pop-up, which increased the complexity of the system. To fix it, I added a string field to the pop-up schema to filter which pop-up is selected when the front-end decides to display the pop-up. For example, if the string of the field is “home,” that pop-up is meant to be displayed on the home page. As such, the front-end needs to pass a prop with the value “home” to the popup component for it to display a pop-up for the home page.</p>
+
+<p>To test my projects, I have used Cypress for end-to-end testing and Jest for unit testing. Specifically, I have written end-to-end tests to ensure my pop-up system mentioned above works correctly. Those tools also provide code and branch coverage to further ensure a given code line has been passed through a test.</p>
+
+<h3 id="frontend-work">Frontend Work</h3>
+
+<p>Of course, I also helped out with the frontend of the website. I was primarily helping out with the “How We Help” section of the page. The section originally lacked a lot of content. Fortunately, I approached it from the beginning.</p>
+
+<p>First, I reached out to people who have information about developing those pages to get information about those pages. I asked them if they had any text to fill up the page and media that would make it more visually appealing. From there, I use common standards to develop the website if they do not have any suggestions on how I should create it. For example, this means using icons to signify many features of the organization’s program. Finally, I show the stakeholders the website for feedback. After finally getting their approval, I push my changes to GitHub and merge the branch into production.</p>
+
+<p>The resulting section is as follow:</p>
+
+<p><a href="https://www.thaddeus.org/how-we-help">How We Help</a>:</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240401_website/02_how_we_help.png" alt="" data-position="center center" /></p>
+
+<p><a href="https://www.thaddeus.org/womens-center">Women’s Center</a>:</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240401_website/03_womens_center.png" alt="" data-position="center center" /></p>
+
+<p><a href="https://www.thaddeus.org/housing-program">Housing Program</a> and <a href="https://www.thaddeus.org/housing-program/restoration-house">Restoration House</a>:</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240401_website/04_housing_program.png" alt="" data-position="center center" /></p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240401_website/05_restoration_house.png" alt="" data-position="center center" /></p>
+
+<p><a href="https://www.thaddeus.org/support-groups">Support Groups</a>:</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240401_website/06_support_groups.png" alt="" data-position="center center" /></p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240401_website/07_one_support_group.png" alt="" data-position="center center" /></p>
+
+<p><a href="https://www.thaddeus.org/support-groups">Mentoring</a> and <a href="https://www.thaddeus.org/mentoring/mentee">Mentee</a>:</p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240401_website/08_mentoring.png" alt="" data-position="center center" /></p>
+
+<p><img src="/forty-jekyll-theme/images/projects_media/20240401_website/09_mentee.png" alt="" data-position="center center" /></p>
+
+	</div>
+</section>
+
+</div>
+
+    <style>
+	textarea {
+		resize:vertical;
+	}
+</style>
+
+<!-- Contact -->
+<section id="contact">
+	<div class="inner">
+		<section>
+			<form action="https://formspree.io/f/xvojyzgw" method="POST">
+				<div class="field half first">
+					<label for="name">Name</label>
+					<input type="text" name="name" id="name" required />
+				</div>
+				<div class="field half">
+					<label for="email">Email</label>
+					<input type="email" name="_replyto" id="email" required />
+				</div>
+				<div class="field">
+					<label for="message">Message</label>
+					<textarea name="message" id="message" rows="6" required></textarea>
+				</div>
+				<ul class="actions">
+					<li><input type="submit" value="Send Message" class="special" /></li>
+					<li><input type="reset" value="Clear" /></li>
+				</ul>
+			</form>
+		</section>
+		<section class="split">
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-search"></span>
+					<h3>Resume</h3>
+					<a href="../documents/Resume.pdf">Click here for my resume.</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-envelope"></span>
+					<h3>Email</h3>
+					<a href="mailto:namdo1204@gmail.com">namdo1204@gmail.com</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-phone"></span>
+					<h3>Phone</h3>
+					<a href="tel:(520) 265-6455">(520) 265-6455</a>
+				</div>
+			</section>
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
+					<h3>Address</h3>
+					<span>
+					
+					    Surprise,
+					
+					
+					    AZ,
+					
+					
+					    United States of America
+					
+					</span>
+				</div>
+			</section>
+		</section>
+	</div>
+</section>
+
+<!-- Footer -->
+	<footer id="footer">
+		<div class="inner">
+			<ul class="icons">
+				
+					
+						<li>
+							<a href="https://github.com/namdo1225" class="icon alt fa-github" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+								<span class="label">GitHub</span>
+							</a>
+						</li>
+					
+				
+					
+						<li>
+							<a href="https://www.linkedin.com/in/nam-do-630bb2173/" class="icon alt fa-linkedin" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+								<span class="label">LinkedIn</span>
+							</a>
+						</li>
+					
+				
+			</ul>
+			<ul class="copyright">
+				<li>&copy; Nam Do </li>
+				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+
+			</ul>
+		</div>
+	</footer>
+
+</div>
+
+<!-- Scripts -->
+	<script src="/forty-jekyll-theme/assets/js/jquery.min.js"></script>
+	<script src="/forty-jekyll-theme/assets/js/jquery.scrolly.min.js"></script>
+	<script src="/forty-jekyll-theme/assets/js/jquery.scrollex.min.js"></script>
+	<script src="/forty-jekyll-theme/assets/js/skel.min.js"></script>
+	<script src="/forty-jekyll-theme/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="/forty-jekyll-theme/assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="/forty-jekyll-theme/assets/js/main.js"></script>
+
+
+</body>
+
+</html>
