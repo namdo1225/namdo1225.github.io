@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem "ffi", "< 1.17.0"
+gem "ffi", "< 1.16.3"
 gem 'jekyll', '~> 4.2'
 
 group :jekyll_plugins do
