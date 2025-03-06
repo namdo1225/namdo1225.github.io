@@ -2,7 +2,7 @@
 title: Nam Do
 email: namdo1204@gmail.com
 description: A web developer with professional development experience in React and JavaScript.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Nam Do
 city: Surprise
