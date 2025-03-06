@@ -40,7 +40,7 @@ style: |
 
 ## Overview
 
-Hi, I am Nam Do. I am a software engineer working at [Ephibian, Inc.](https://www.ephibian.com/) I have a bachelor's in computer science from the University of Arizona. Previously I was a Web Development Intern at the Thaddeus Resource Center, pioneering the transition of the organization’s website from Webflow to Next.js. I also worked as an information technology student worker at the James E. Rogers College of Law for five years.
+Hi, I am Nam Do. I am a software engineer working at [Ephibian, Inc.](https://www.ephibian.com/) I have a Bachelor's in Computer Science from the University of Arizona. Previously I was a Web Development Intern at the Thaddeus Resource Center, pioneering the transition of the organization’s website from Webflow to Next.js. I also worked as an information technology student worker at the James E. Rogers College of Law for five years.
 
 ## My Skill
 <div class="stat-link">
