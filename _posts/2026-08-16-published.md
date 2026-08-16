@@ -5,6 +5,8 @@ description: Celebrating my 2 years at Ephibian
 image: https://www.ephibian.com/images/logo.gif
 ---
 
+![Ephibian Logo](https://www.ephibian.com/images/logo.gif)
+
 Hi, it's Nam here! On August 13th, 2024, I began my first day at Ephibian as a new software engineer.
 
 As a new graduate entering the market at such an uncertain time, it seemed like Ephibian was my safety net at the time. However, Ephibian is more than that. My coworkers are always supportive and present to help me even if they are busy with their own tickets. My supervisors are always willing to work with me if I have any questions, elaborate more on how to complete a task, and provide feedback so I can improve. Even simple acts like buying snacks for the office are things that make Ephibian go from a "safety net" to a stellar workplace.
