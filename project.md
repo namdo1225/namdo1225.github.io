@@ -35,7 +35,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>[ACTIVELY MAINTAINING] Thaddeus Resource Center Website</h3>
+					<h3>[INTERNSHIP COMPLETED] Thaddeus Resource Center Website</h3>
 				</header>
 				<p>The Thaddeus Resource Center website was originally built using a website builder. While that was great, we eventually switched to developing it in TypeScript and React, allowing us to cut costs, add new features, and learn more about the programming world.</p>
 				<ul class="actions">
