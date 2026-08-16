@@ -2,7 +2,7 @@
 layout: post
 title: 2 Years at Ephibian
 description: Celebrating my 2 years at Ephibian
-image: null
+image: https://www.ephibian.com/images/logo.gif
 ---
 
 Hi, it's Nam here! On August 13th, 2024, I began my first day at Ephibian as a new software engineer.
