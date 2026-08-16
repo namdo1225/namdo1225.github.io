@@ -1,3 +1,5 @@
+# This workflow is disabled and no longer needed.
+
 name: Deploy to GitHub Pages
 
 on:
