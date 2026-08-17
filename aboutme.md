@@ -43,7 +43,10 @@ style: |
 Hi, I am Nam Do. I am a software engineer working at [Ephibian, Inc.](https://www.ephibian.com/) I have a Bachelor's in Computer Science from the University of Arizona. Previously I was a Web Development Intern at the Thaddeus Resource Center, pioneering the transition of the organization’s website from Webflow to Next.js. I also worked as an information technology student worker at the James E. Rogers College of Law for five years.
 
 ## My Skill
+
+<div style="text-align: center;">
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+</div>
 
 As a software engineer, I am experienced with many programming languages, including C, C++, C#, Java, JavaScript, and Python. This includes web development languages such as HTML and CSS as well. I have been involved in many projects, including using Unity to create a playable demo of a game and creating a music player that could look up demo music on Spotify using the Spotify API.
 
@@ -53,7 +56,7 @@ In addition, I also have familiarity with many types of programming paradigms an
 
 As a software engineer at Ephibian, I develop full-stack software solutions for clients that often have over thousands of customers. Work can range from overhauling a website to a new framework to creating new API endpoints to retrieve data for the frontend.
 
-### Thaddeus Resource Center
+## Thaddeus Resource Center
 
 For my web development job at the Thaddeus Resource Center, I helped pioneer the transition of the organization’s website from Webflow to Next.js. Back before I started, the website was developed and hosted on Webflow, a no-code website builder. With the help of the rest of the web squad, we created a repository on GitHub to develop this new website in code. I developed reusable React components in JavaScript that are widely utilized throughout the frontend. Most importantly, I implemented a CRUD interface so that any company employee can create and modify website pop-ups.
 
@@ -61,7 +64,7 @@ I also was previously tasked with app development. I was developing the organiza
 
 In both positions, I wrote documentation and standardized processes to ensure new interns understand the job's requirements and technology, properly onboarding them and ensuring they have reference materials to rely on.
 
-### Information Technology Positions
+## Information Technology Positions
 
 Through my IT job, I maintained an inventory of more than 300 university devices (desktops, laptops, etc.). I was primarily tasked with setting up these devices (installing OSes and so forth) so that they meet the university's and college's standards. Last but not least, like many others in IT, I resolved many tickets from users on ServiceNow, by email, or through walk-in support.
 
