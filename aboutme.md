@@ -45,7 +45,7 @@ Hi, I am Nam Do. I am a software engineer working at [Ephibian, Inc.](https://ww
 ## My Skill
 
 <div style="text-align: center;">
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=namdo1225)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 As a software engineer, I am experienced with many programming languages, including C, C++, C#, Java, JavaScript, and Python. This includes web development languages such as HTML and CSS as well. I have been involved in many projects, including using Unity to create a playable demo of a game and creating a music player that could look up demo music on Spotify using the Spotify API.
