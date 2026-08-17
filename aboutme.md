@@ -45,7 +45,7 @@ Hi, I am Nam Do. I am a software engineer working at [Ephibian, Inc.](https://ww
 ## My Skill
 <div class="stat-link">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=namdo1225&langs_count=4)" alt="Anurag's GitHub stats">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=namdo1225&langs_count=4" alt="Anurag's GitHub stats">
   </a>
 </div>
 
