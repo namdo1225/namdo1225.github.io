@@ -43,9 +43,10 @@ style: |
 Hi, I am Nam Do. I am a software engineer working at [Ephibian, Inc.](https://www.ephibian.com/) I have a Bachelor's in Computer Science from the University of Arizona. Previously I was a Web Development Intern at the Thaddeus Resource Center, pioneering the transition of the organization’s website from Webflow to Next.js. I also worked as an information technology student worker at the James E. Rogers College of Law for five years.
 
 ## My Skill
-
-<div style="text-align: center;">
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=namdo1225)](https://github.com/stats-organization/github-stats-extended)
+<div class="stat-link">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=namdo1225" alt="Anurag's GitHub stats">
+  </a>
 </div>
 
 As a software engineer, I am experienced with many programming languages, including C, C++, C#, Java, JavaScript, and Python. This includes web development languages such as HTML and CSS as well. I have been involved in many projects, including using Unity to create a playable demo of a game and creating a music player that could look up demo music on Spotify using the Spotify API.
